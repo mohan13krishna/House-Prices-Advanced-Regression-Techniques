@@ -499,7 +499,7 @@ Competition #3: ???
 
 ## 🙏 GRATITUDE & RESPECT
 
-<div align="center">
+<div align="left">
 
 **WE DIDN'T DO THIS ALONE**
 
