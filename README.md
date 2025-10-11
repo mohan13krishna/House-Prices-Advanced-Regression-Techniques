@@ -28,8 +28,8 @@ Remember us? The rookies who got **Top 48%** in our first competition? **WE'RE B
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://www.kaggle.com/mohankrishnathalla">
-<img src="https://storage.googleapis.com/kaggle-avatars/thumbnails/5436296-kg.jpg" width="150px" style="border-radius: 50%; border: 4px solid #20BEFF;" alt="Mohan Krishna Thalla"/>
+<a href="https://github.com/mohan13krishna">
+<img src="https://github.com/mohan13krishna.png" width="150px" style="border-radius: 50%; border: 4px solid #20BEFF;" alt="Mohan Krishna Thalla"/>
 </a>
 <br />
 <b>👑 Mohan Krishna Thalla</b><br />
@@ -39,8 +39,8 @@ Remember us? The rookies who got **Top 48%** in our first competition? **WE'RE B
 <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.kaggle.com/rakesh630">
-<img src="https://storage.googleapis.com/kaggle-avatars/thumbnails/2839066-kg.jpg" width="150px" style="border-radius: 50%; border: 4px solid #FF6B6B;" alt="Rakesh Kolipaka"/>
+<a href="https://github.com/rakeshkolipakaace">
+<img src="https://github.com/rakeshkolipakaace.png" width="150px" style="border-radius: 50%; border: 4px solid #FF6B6B;" alt="Rakesh Kolipaka"/>
 </a>
 <br />
 <b>🔧 Rakesh Kolipaka</b><br />
@@ -50,8 +50,8 @@ Remember us? The rookies who got **Top 48%** in our first competition? **WE'RE B
 <a href="https://github.com/rakeshkolipakaace"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.kaggle.com/neelamuday">
-<img src="https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png" width="150px" style="border-radius: 50%; border: 4px solid #00D9FF;" alt="Neelam Uday Kiran"/>
+<a href="https://github.com/udaykiran2102">
+<img src="https://github.com/udaykiran2102.png" width="150px" style="border-radius: 50%; border: 4px solid #00D9FF;" alt="Neelam Uday Kiran"/>
 </a>
 <br />
 <b>🎯 Neelam Uday Kiran</b><br />
@@ -61,8 +61,8 @@ Remember us? The rookies who got **Top 48%** in our first competition? **WE'RE B
 <a href="https://github.com/udaykiran2102"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.kaggle.com/digutlaranjithkumar">
-<img src="https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png" width="150px" style="border-radius: 50%; border: 4px solid #FFD700;" alt="Ranjith Kumar Digutla"/>
+<a href="https://github.com/ranjith93250">
+<img src="https://github.com/ranjith93250.png" width="150px" style="border-radius: 50%; border: 4px solid #FFD700;" alt="Ranjith Kumar Digutla"/>
 </a>
 <br />
 <b>⚡ Ranjith Kumar Digutla</b><br />
