@@ -2,7 +2,7 @@
  
 <div align="center">    
 
-![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF?style=for-the-badge&logo=kaggle)
+![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF?style=for-the-badge&logo=kaggle) 
 ![Rank](https://img.shields.io/badge/RANK-99%2F4250-FF6B6B?style=for-the-badge)
 ![Score](https://img.shields.io/badge/Best%20Score-0.11868-00D9FF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)
