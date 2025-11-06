@@ -7,9 +7,9 @@
 ![Score](https://img.shields.io/badge/Best%20Score-0.11868-00D9FF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python) 
 
-### ⚡ **TOP 2.3% - WE DIDN'T JUST COMPETE, WE CONQUERED!** ⚡
+### ⚡ **TOP 2.3% - WE CONQUERED THE GET STARTED CHALLENGE!** ⚡
 
-> *"From Top 48% rookies to Top 2.3% LEGENDS - 45.7% RANK JUMP!"*
+> *"Starting strong with TOP 2.3% in our first 'Get Started' competition!"*
 
 **11 Submissions | 24 Days | ONE MISSION: DOMINATE**
 
@@ -17,11 +17,11 @@
 
 ---
 
-## 🔥 TEAM PHOENIX ALGORITHMS - REVENGE TOUR
+## 🔥 TEAM PHOENIX ALGORITHMS - MAKING OUR MARK
 
-Remember us? The rookies who got **Top 48%** in our first competition? **WE'RE BACK.** And this time we didn't come to play—**WE CAME TO SLAY!**
+This was our entry into Kaggle's "Getting Started" competition series, and **WE CAME TO MAKE A STATEMENT!**
 
-**THE RESULT?** 🎯 **RANK 99 OUT OF 4250 TEAMS!** That's **TOP 2.3%** baby! From underdogs to ABSOLUTE BEASTS in just one competition! 🔥
+**THE RESULT?** 🎯 **RANK 99 OUT OF 4250 TEAMS!** That's **TOP 2.3%** on one of Kaggle's most popular beginner-friendly competitions! 🔥
 
 ### 👥 THE DREAM TEAM THAT SHOOK THE LEADERBOARD
 
@@ -76,21 +76,19 @@ Remember us? The rookies who got **Top 48%** in our first competition? **WE'RE B
 
 <div align="center">
 
-**🏆 COMPETITION #2 | RANK 99/4250 | TOP 2.3% | 45.7% RANK IMPROVEMENT 🏆**
+**🏆 GET STARTED COMPETITION | RANK 99/4250 | TOP 2.3% 🏆**
 
-*They said we got lucky in Competition 1. We said "WATCH THIS." 💥*
-
-🔗 **[Competition #1: BPM Prediction](https://github.com/mohan13krishna/Predicting-the-Beats-per-Minute-of-Songs)** - *Where we proved ourselves (Top 48%)*
+*Starting our Kaggle journey with a bang!* 💥
 
 </div>
 
 ---
 
-## 🎯 THE SCOREBOARD MASSACRE
+## 🎯 THE SCOREBOARD DOMINATION
 
 <div align="center">
 
-### 📊 **ABSOLUTE DEVASTATION METRICS**
+### 📊 **ACHIEVEMENT METRICS**
 
 </div>
 
@@ -101,32 +99,10 @@ Remember us? The rookies who got **Top 48%** in our first competition? **WE'RE B
 | **BEST SCORE** | **0.11868** | 💎 **FLAWLESS** |
 | **SUBMISSIONS** | 11 Precision Strikes | ⚡ **SURGICAL** |
 | **DAYS ACTIVE** | 24 Days of Grind | 🔨 **NON-STOP** |
-| **IMPROVEMENT FROM COMP 1** | **+45.7% RANK JUMP** | 🔥 **EXPLOSIVE GROWTH** |
 | **MODELS TRAINED** | 30+ Variants | 🧪 **MAD SCIENCE** |
 | **ENSEMBLE COMBOS TESTED** | 20+ Architectures | 🏗️ **ARCHITECTURAL MASTERY** |
 | **SLEEP SACRIFICED** | ∞ Hours | 😤 **WORTH IT** |
 | **VICTORY LEVEL** | **MAXIMUM** | 🏆 **UNSTOPPABLE** |
-
-<div align="center">
-
-### 🎯 **THE EVOLUTION OF DOMINANCE**
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  Competition #1: BPM Prediction  →  Rank 1246/2581     │
-│  Performance: Top 48.3%          →  "Not bad for rookies"│
-└─────────────────────────────────────────────────────────┘
-                         ⬇️ LEVEL UP ⬇️
-┌─────────────────────────────────────────────────────────┐
-│  Competition #2: House Prices    →  Rank 99/4250       │
-│  Performance: TOP 2.3%           →  "THEY'VE ARRIVED"  │
-│  Improvement: +45.7% RANK JUMP   →  🔥🔥🔥              │
-└─────────────────────────────────────────────────────────┘
-```
-
-**FROM UNDERDOGS TO TOP DOGS IN ONE COMPETITION! 🐺**
-
-</div>
 
 ---
 
@@ -315,34 +291,6 @@ Day 24: 👑 "0.11868 - TOP 2.3% SECURED!"
 
 </div>
 
-### 🚀 **THE PHOENIX TRAJECTORY**
-
-```
-Competition #1: BPM Prediction
-├─ Rank: 1246/2581 (Top 48.3%)
-├─ Status: "Rookies with potential"
-└─ Learning: MAXIMUM
-
-         ⬇️ 
-    EVOLUTION
-         ⬇️
-
-Competition #2: House Prices
-├─ Rank: 99/4250 (TOP 2.3%)
-├─ Status: "ABSOLUTE LEGENDS"
-├─ Improvement: +45.7% rank jump
-└─ Confidence: UNLIMITED
-
-         ⬇️
-    NEXT LEVEL
-         ⬇️
-
-Competition #3: ???
-├─ Target: Top 1%
-├─ Dream: PODIUM FINISH
-└─ Belief: UNSTOPPABLE
-```
-
 ---
 
 ## 🎯 THE TECHNICAL DEEP DIVE
@@ -462,11 +410,7 @@ Competition #3: ???
 
 ```
 ✅ COMPLETED
-├─ Competition #1: BPM Prediction
-│  └─ Rank: 1246/2581 (Top 48.3%)
-│     └─ Achievement: Proved we belong
-│
-└─ Competition #2: House Prices
+└─ House Prices: Advanced Regression Techniques (Get Started)
    └─ Rank: 99/4250 (TOP 2.3%) 🔥
       └─ Achievement: Proved we're ELITE
 
@@ -483,10 +427,10 @@ Competition #3: ???
    └─ Computer Vision Competitions
 
 🏆 UPCOMING TARGETS
-├─ Competition #3: TBD
+├─ Next Competition: TBD
 │  └─ Target: TOP 1%
 │
-├─ Competition #4: TBD
+├─ Featured Competitions
 │  └─ Target: PODIUM FINISH (Top 3)
 │
 └─ Long-term Goal
@@ -517,25 +461,24 @@ Competition #3: ???
 
 # ⚡ THE PHOENIX HAS RISEN ⚡
 
-## *"They doubted us after Competition 1. We responded with TOP 2.3%."*
+## *"Our Kaggle journey begins with TOP 2.3% - and we're just getting started."*
 
 ### 🏆 TEAM PHOENIX ALGORITHMS 🏆
 
 ```
 ┌─────────────────────────────────────────┐
-│  🔥 THE EVOLUTION 🔥                    │
+│  🔥 THE JOURNEY BEGINS 🔥               │
 ├─────────────────────────────────────────┤
-│  Competition 1 → Top 48.3%   🌱         │
-│  Competition 2 → TOP 2.3%    🔥         │
-│  Competition 3 → Top 1%?     🚀         │
-│  Competition 4 → Podium?     👑         │
-│  The Future    → Grandmaster 🏆         │
+│  House Prices      → TOP 2.3%    🔥    │
+│  Next Competition  → Top 1%?     🚀    │
+│  Future Featured   → Podium?     👑    │
+│  The Ultimate Goal → Grandmaster 🏆    │
 └─────────────────────────────────────────┘
 ```
 
 ---
 
-### 📈 **+45.7% RANK IMPROVEMENT** | 💪 **GETTING STRONGER** | 🎯 **AIMING HIGHER**
+### 📈 **TOP 2.3%** | 💪 **GETTING STRONGER** | 🎯 **AIMING HIGHER**
 
 ---
 
@@ -548,13 +491,11 @@ Competition #3: ???
 
 ### 🔥 **NEXT COMPETITION: BRACE YOURSELVES** 🔥
 
-*The phoenix is just warming up. We're coming for that podium.* ⭐
+*The phoenix is just warming up. We're coming for more top finishes.* ⭐
 
 ---
 
-**⚡ FROM ROOKIES TO LEGENDS IN TWO COMPETITIONS ⚡**
-
-**Want to see our journey?** Check out [Competition #1](https://github.com/mohan13krishna/Predicting-the-Beats-per-Minute-of-Songs)
+**⚡ STARTING STRONG ON KAGGLE ⚡**
 
 **Got questions? Want to collaborate?** Hit us up on Kaggle! We're always ready to talk ML.
 
