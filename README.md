@@ -1,7 +1,7 @@
 # 🏠 HOUSE PRICES - ADVANCED REGRESSION TECHNIQUES 🏠
  
 <div align="center">    
-
+ 
 ![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF?style=for-the-badge&logo=kaggle) 
 ![Rank](https://img.shields.io/badge/RANK-99%2F4250-FF6B6B?style=for-the-badge)
 ![Score](https://img.shields.io/badge/Best%20Score-0.11868-00D9FF?style=for-the-badge)
@@ -13,7 +13,7 @@
 
 **11 Submissions | 24 Days | ONE MISSION: DOMINATE**
 
-</div>
+</div> 
 
 ---
 
@@ -30,7 +30,7 @@ This was our entry into Kaggle's "Getting Started" competition series, and **WE 
 <td align="center" width="25%">
 <a href="https://github.com/mohan13krishna">
 <img src="https://github.com/mohan13krishna.png" width="150px" style="border-radius: 50%; border: 4px solid #20BEFF;" alt="Mohan Krishna Thalla"/>
-</a>
+</a> 
 <br />
 <b>👑 Mohan Krishna Thalla</b><br />
 <i>🎯 Team Lead & Ensemble Architect</i><br />
@@ -121,7 +121,7 @@ This was our entry into Kaggle's "Getting Started" competition series, and **WE 
 ║  Power Level: 9000+                                      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
+ 
 </div>
 
 **THE SECRET FORMULA:**
