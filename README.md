@@ -6,7 +6,7 @@
 ![Rank](https://img.shields.io/badge/RANK-99%2F4250-FF6B6B?style=for-the-badge)
 ![Score](https://img.shields.io/badge/Best%20Score-0.11868-00D9FF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)    
-
+   
 ### ⚡ **TOP 2.3% - WE CONQUERED THE GET STARTED CHALLENGE!** ⚡
 
 > *"Starting strong with TOP 2.3% in our first 'Get Started' competition!"*
