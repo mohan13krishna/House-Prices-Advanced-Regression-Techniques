@@ -78,7 +78,7 @@ This is our entry into Kaggle's "Getting Started" competition series — an **ON
 
 <div align="center">
 
-**🏆 GET STARTED COMPETITION | RANK 99/4250 | TOP 2.3% 🏆**
+**🏆 GET STARTED COMPETITION | RANK 30/3912 | TOP 0.77% 🏆**
 
 *Starting our Kaggle journey with a bang!* 💥
 
@@ -384,7 +384,7 @@ Day 24: 👑 "0.11868 - TOP 2.3% SECURED!"
 ║  📤 OUTPUT                                               ║
 ║     ├─ CV RMSLE: ~0.116                                 ║
 ║     ├─ Public Score: 0.11868                            ║
-║     └─ Rank: 99/4250 (TOP 2.3%)                         ║
+║     └─ Rank: 30/3912 (TOP 0.77%)                        ║
 ║                                                          ║
 ║  STATUS: 👑 LEGENDARY 👑                                 ║
 ╚══════════════════════════════════════════════════════════╝
@@ -442,7 +442,7 @@ Day 24: 👑 "0.11868 - TOP 2.3% SECURED!"
 │  DAY 24: THE BREAKTHROUGH                                 │
 │  👑 Submission #11: Improved Version                      │
 │  💎 Score: 0.11868 (BEST EVER!)                          │
-│  🏆 Rank: 99/4250 (TOP 2.3%)                             │
+│  🏆 Rank: 30/3912 (TOP 0.77%)                            │
 │  🎉 Status: LEGENDARY                                     │
 │  💬 Team: "WE DID IT!!!" 🎊                              │
 │  🔥 Result: ABSOLUTE DOMINATION                           │
@@ -464,7 +464,7 @@ Day 24: 👑 "0.11868 - TOP 2.3% SECURED!"
 ```
 ✅ COMPLETED
 └─ House Prices: Advanced Regression Techniques (Get Started)
-   └─ Rank: 99/4250 (TOP 2.3%) 🔥
+   └─ Rank: 30/3912 (TOP 0.77%) 🔥
       └─ Achievement: Proved we're ELITE
 
 🎯 IN PROGRESS
