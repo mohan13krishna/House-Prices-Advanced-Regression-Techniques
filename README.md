@@ -21,7 +21,7 @@
 
 This is our entry into Kaggle's "Getting Started" competition series — an **ONGOING, NEVER-ENDING COMPETITION** with a rolling leaderboard! 
 
-**THE RESULT?** 🎯 **RANK 99 OUT OF 4250 TEAMS!** That's **TOP 2.3%** on one of Kaggle's most popular beginner-friendly competitions! 🔥
+**THE RESULT?** 🎯 **RANK 30 OUT OF 3912 TEAMS!** That's **TOP 0.77%** on one of Kaggle's most popular beginner-friendly competitions! 🔥
 
 > 📌 **COMPETITION TYPE:** Getting Started (Never Ends) | **STATUS:** Ongoing with Rolling Leaderboard | **JOIN ANYTIME:** New submissions always welcome!
 
