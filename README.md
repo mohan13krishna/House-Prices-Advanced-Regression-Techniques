@@ -19,9 +19,11 @@
 
 ## 🔥 TEAM PHOENIX ALGORITHMS - MAKING OUR MARK
 
-This was our entry into Kaggle's "Getting Started" competition series, and **WE CAME TO MAKE A STATEMENT!**
+This is our entry into Kaggle's "Getting Started" competition series — an **ONGOING, NEVER-ENDING COMPETITION** with a rolling leaderboard! 
 
 **THE RESULT?** 🎯 **RANK 99 OUT OF 4250 TEAMS!** That's **TOP 2.3%** on one of Kaggle's most popular beginner-friendly competitions! 🔥
+
+> 📌 **COMPETITION TYPE:** Getting Started (Never Ends) | **STATUS:** Ongoing with Rolling Leaderboard | **JOIN ANYTIME:** New submissions always welcome!
 
 ### 👥 THE DREAM TEAM THAT SHOOK THE LEADERBOARD
 
@@ -84,7 +86,36 @@ This was our entry into Kaggle's "Getting Started" competition series, and **WE 
 
 ---
 
-## 🎯 THE SCOREBOARD DOMINATION
+## � CHECK OUT OUR PLAYGROUND COMPETITION SERIES
+
+**Explore our complete journey across 6 Kaggle Playground competitions!** 🚀 From foundation-building to expert-tier expertise, here's where we've sharpened our data science blades:
+
+<div align="center">
+
+### 🏅 **OUR 6-COMPETITION PROGRESSION**
+
+</div>
+
+| # | 🎯 COMPETITION | REPOSITORY | STATUS | THEME |
+|---|----------------|-----------|--------|-------|
+| 1️⃣ | **Predicting Beats Per Minute** | [BPM Prediction](https://github.com/mohan13krishna/Predicting-the-Beats-per-Minute-of-Songs) | ✅ Complete | Music Analytics |
+| 2️⃣ | **Predicting Road Accident Risk** | [Accident Prediction](https://github.com/mohan13krishna/Predicting-Road-Accident-Risk) | ✅ Complete | Safety Analytics |
+| 3️⃣ | **Predicting Loan Payback** | [Loan Prediction](https://github.com/mohan13krishna/Predicting-Loan-Payback) | ✅ Complete | Financial Risk |
+| 4️⃣ | **Diabetes Prediction Challenge** | [Diabetes Prediction](https://github.com/mohan13krishna/Diabetes-Prediction-Challenge) | ✅ Complete | Healthcare AI |
+| 5️⃣ | **Predicting Student Test Scores** | [Score Prediction](https://github.com/mohan13krishna/Predicting-Student-Test-Scores) | ✅ Complete | Education Analytics |
+| 6️⃣ | **Predicting Heart Disease** | [Heart Disease Prediction](https://github.com/mohan13krishna/Predicting-Heart-Disease) | ✅ Complete | Medical Diagnosis |
+
+<div align="center">
+
+> 🚀 **PROGRESSION:** Foundation → Optimization → AutoML → Expert Tier → Consistency → MASTERY  
+> **AVERAGE PERCENTILE:** 26.6% across all 6 competitions  
+> **BEST PERFORMANCE:** 20.8% (Diabetes Prediction)
+
+</div>
+
+---
+
+## �🎯 THE SCOREBOARD DOMINATION
 
 <div align="center">
 
